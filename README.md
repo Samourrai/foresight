@@ -77,7 +77,7 @@ Timeline templates: compact (6–8 wks) / standard (3–4 mo) / comprehensive (6
 
 ## Background
 
-Built for a CNAM-trained futurist (Master 2010). Designed to be school-agnostic
+Built By a CNAM-trained futurist (Master 2010). Designed to be school-agnostic
 and methodologically rigorous — not locked into any single tradition.
 
 ---
