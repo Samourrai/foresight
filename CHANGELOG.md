@@ -5,6 +5,27 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [1.2.0] — 2026-04-23
+
+### Added
+- **Consulting program design capability** (`references/consulting-program.md`, 424 lines)
+  - Phase 0: Client brief template (12 scoping questions), Study Design Document template
+  - Phase 1: Environmental scan — source typology, signal classification grid,
+    expert panel design (composition, recruitment, interview guide)
+  - Phase 2: Structural analysis — tool selection guide, MICMAC/MACTOR workflow
+  - Phase 3: Scenario construction — architecture selection, 9-element narrative template,
+    validation workshop protocol
+  - Phase 4: Strategic implications — Wind Tunneling robustness matrix, Backcasting,
+    Early Warning System design
+  - Phase 5: Communication — deliverable stack by audience, 15-slide executive
+    presentation structure, knowledge transfer protocol
+  - Program governance: meeting cadence, QA process, 5-risk register
+  - Three timeline templates: compact / standard / comprehensive
+- **Mode: Program Design** added as 5th work mode in SKILL.md
+- Consulting-specific trigger phrases added to description
+
+---
+
 ## [1.1.0] — 2026-04-23
 
 ### Added

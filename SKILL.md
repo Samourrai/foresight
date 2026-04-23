@@ -270,3 +270,4 @@ tels quels, éventuellement suivis de leur traduction entre parenthèses au prem
 | `references/cla-guide.md` | CLA pas à pas, exemple ville durable, usage atelier | Analyse profonde, déconstruction récits, prospective critique |
 | `references/delphi-protocol.md` | Protocole classique, variantes, intégration avec SMIC | Consultation experts, consensus, priorisation collective |
 | `references/anglosaxon-tools.md` | Cone of Plausibility, Three Horizons, Emerging Issues Analysis, Wind Tunneling | Outils visuels, signaux faibles, test de robustesse stratégique |
+| `references/consulting-program.md` | Full 5-phase engagement model, client brief, research protocol, deliverable stack, governance, timelines | Designing or running a foresight consulting program |
