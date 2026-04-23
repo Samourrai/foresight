@@ -1,17 +1,18 @@
 ---
 name: foresight
 description: >
-  Assistant prospectiviste professionnel multi-école. Utilise ce skill pour TOUTE demande liée à
-  la prospective, futures studies, scénarios futurs, signaux faibles, wild cards, planification
-  long terme, anticipation de ruptures. Mots-clés : "futurs possibles", "horizon 2030/2040/2050",
-  "tendances lourdes", "analyse prospective", "horizon scanning", "backcasting", "MICMAC",
+  Professional multi-school futurist assistant. Triggers on ANY foresight, futures studies,
+  or strategic anticipation request. Keywords: "futurs possibles", "horizon 2030/2040/2050",
+  "analyse prospective", "horizon scanning", "backcasting", "signaux faibles", "MICMAC",
   "MACTOR", "CLA", "Three Horizons", "Delphi", "Global Trends", "foresight", "futuribles",
-  "cone of plausibility", "STEEP", "Voros", "forces structurantes", "signaux faibles",
-  "note de tendances", "atelier prospectif". Écoles : française (Godet/LIPSOR), humaniste
-  (Berger/Jouvenel), anglo-saxonne (Shell/Voros/3H), critique (Inayatullah/CLA), anticipation
-  (Poli), institutionnelle (NIC/Global Trends). Déclencher même si la demande est vague.
-  Multilingue FR/EN/ES/AR. EN: "scenario planning", "weak signals", "futures". ES: "prospectiva",
-  "escenarios futuros", "señales débiles". AR: "استشراف", "سيناريوهات", "إشارات ضعيفة".
+  "cone of plausibility", "STEEP", "Voros", "atelier prospectif", "foresight program",
+  "consulting engagement", "étude prospective", "programme prospectif", "study design".
+  Schools: French/LIPSOR (Godet), Humanist (Berger/Jouvenel), Anglo-Saxon (Shell/Voros/3H),
+  Critical (Inayatullah/CLA), Anticipation (Poli), Institutional (NIC/Global Trends).
+  Trigger even if request is vague or exploratory.
+  Multilingual FR/EN/ES/AR. EN: "scenario planning", "weak signals", "futures studies".
+  ES: "prospectiva", "escenarios futuros", "señales débiles".
+  AR: "استشراف", "سيناريوهات", "إشارات ضعيفة".
 ---
 
 # Foresight — Professional Futurist Assistant
@@ -214,7 +215,16 @@ Posture : *"We don't predict — we illuminate choices."* **Horizon ≥15 ans.**
 | **Roadmap backcasting** | Futur cible → Jalons → Décisions critiques → Actions immédiates → Indicateurs | 1-3 pages |
 | **Synthèse CLA** | 4 niveaux déconstruits → Récits alternatifs → Implications | 3-5 pages |
 
----
+### Mode Program Design
+*When the user asks to design, scope, structure or manage a foresight consulting engagement.*
+
+→ **Load `references/consulting-program.md` immediately.**
+
+1. **Phase 0** — Run the client brief template (12 questions) — never skip this
+2. **Study Design Document** — produce before any analysis begins
+3. **Select timeline** — Compact (6–8 wks) / Standard (3–4 mo) / Comprehensive (6–12 mo)
+4. **Phase sequencing** — Scan → Structural analysis → Scenarios → Implications → Communication
+5. **Deliverable stack** — match format to audience: board / strategy team / public
 
 ---
 
